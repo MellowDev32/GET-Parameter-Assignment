@@ -1,0 +1,26 @@
+.date{
+    background-color: black;
+    color: white;
+    font-weight: lighter;
+    text-align: right;
+}
+
+.name{
+    text-align: center;
+    background-color: grey;
+    width: 80%;
+    margin: auto;
+    height: 50px;
+    padding: 10px;
+    border: solid black 2px;
+}
+
+.age{
+    border: dashed red 2px;
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+    text-height: max-size;
+    width: 500px;
+    margin: auto;
+}
